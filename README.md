@@ -11,6 +11,8 @@ This is my repo of knowledge. A special thanks to [Steve Brownlee](https://githu
 
 ### [Git Reference](REF_GIT.md)
 
+### [Git Intermediate](REF_GIT_ITERMEDIATE.md)
+
 ### [Advanced Git](REF_ADVANCED_GIT.md)
 
 ---
@@ -24,5 +26,7 @@ This is my repo of knowledge. A special thanks to [Steve Brownlee](https://githu
 ### [Primitives and Arrays](REF_PRIMITIVES_ARRAYS.md)
 
 ### [String Manipulation](REF_STRING_MANIPULATION.md)
+
+### [Array Methods](REF_ARRAY_METHODS.js)
 
 

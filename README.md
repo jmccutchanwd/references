@@ -13,7 +13,11 @@ This is my repo of knowledge. A special thanks to [Steve Brownlee](https://githu
 
 ---
 
+## JavaScript
 
+### [If/Else, Sitch and For](REF_JS_IF_ELSE.md)
+
+### [Primitives and Arrays](REF_PRIMITIVES_ARRAYS.md)
 
 
 ### [Planning](REF_PLANNING.md)

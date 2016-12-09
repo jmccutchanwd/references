@@ -1,4 +1,5 @@
 # References
+This is my repo of knowledge. A special thanks to [Steve Brownlee](https://github.com/stevebrownlee) and [Brenda Long](https://github.com/brendalong) for providing much of this information.
 
 ## Basic Commands
 

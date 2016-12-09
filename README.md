@@ -16,7 +16,7 @@ This is my repo of knowledge. A special thanks to [Steve Brownlee](https://githu
 ## JavaScript That Works
 Code snippets
 
-### [HTML Boilerplate](REF_HTML.html) ... [Listeners Body and Inner HTML](REF_LISTENERS.js)
+### [HTML Boilerplate](REF_HTML.html) ... [Listeners, Body and Inner HTML](REF_LISTENERS.js)
 
 
 ---

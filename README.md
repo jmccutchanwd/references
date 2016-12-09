@@ -9,7 +9,7 @@ This is my repo of knowledge. A special thanks to [Steve Brownlee](https://githu
 
 ## JavaScript
 
-### [Planning](REF_PLANNING.md)*** [If / Else, Switch and For](REF_JS_IF_ELSE.md)### [Primitives and Arrays](REF_PRIMITIVES_ARRAYS.md)### [String Manipulation](REF_STRING_MANIPULATION.md)### [Array Methods](REF_ARRAY_METHODS.md)### [Core Principals](REF_CORE.md)### [Event Based Programming](REF_EVENT_PROGRAMMING.md)### [Functions](REF_FUNCTIONS.md)### [First Order Functions](REF_FIRST_ORDER.md)### [Modular Programming](REF_MODULAR.md)### [Objects](REF_OBJECTS.md)### [Simple SPA](REF_SIMPLE_SPA.md)### [This](REF_THIS.md)### [XHR](REF_XHR.md)
+### [Planning](REF_PLANNING.md)... [If / Else, Switch and For](REF_JS_IF_ELSE.md)### [Primitives and Arrays](REF_PRIMITIVES_ARRAYS.md)### [String Manipulation](REF_STRING_MANIPULATION.md)### [Array Methods](REF_ARRAY_METHODS.md)### [Core Principals](REF_CORE.md)### [Event Based Programming](REF_EVENT_PROGRAMMING.md)### [Functions](REF_FUNCTIONS.md)### [First Order Functions](REF_FIRST_ORDER.md)### [Modular Programming](REF_MODULAR.md)### [Objects](REF_OBJECTS.md)### [Simple SPA](REF_SIMPLE_SPA.md)### [This](REF_THIS.md)### [XHR](REF_XHR.md)
 
 ---
 

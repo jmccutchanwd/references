@@ -1,5 +1,7 @@
 # References
 
+## Basic Commands
+
 ### [Command line interface](REF_CLI.md)
 
 ### [Sublime shortcuts](REF_SUBLIME_SHORCUTS.md)
@@ -8,6 +10,6 @@
 
 ### [Git Reference](REF_GIT.md)
 
-
+---
 
 

@@ -1,6 +1,6 @@
 # References
 
-1.command line interface
+1. command line interface
 
 1. sublime shortcuts
 

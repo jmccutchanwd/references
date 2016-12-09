@@ -2,7 +2,7 @@
 
 ### [Command line interface](REF_CLI.md)
 
-### [Sublime shortcuts](REF_SUBLIME-SHORTCUTS.md)
+### [Sublime shortcuts](REF_SUBLIME_SHORTCUTS.md)
 
 ### [Command line interface sublime shortcuts](REF_CMD_LINE.md)
 

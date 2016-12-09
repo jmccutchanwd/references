@@ -11,13 +11,18 @@ This is my repo of knowledge. A special thanks to [Steve Brownlee](https://githu
 
 ### [Git Reference](REF_GIT.md)
 
+### [Advanced Git](REF_ADVANCED_GIT.md)
+
 ---
 
 ## JavaScript
 
-### [If/Else, Sitch and For](REF_JS_IF_ELSE.md)
+### [Planning](REF_PLANNING.md)
+
+### [If / Else, Switch and For](REF_JS_IF_ELSE.md)
 
 ### [Primitives and Arrays](REF_PRIMITIVES_ARRAYS.md)
 
+### [String Manipulation](REF_STRING_MANIPULATION.md)
 
-### [Planning](REF_PLANNING.md)
+

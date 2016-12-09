@@ -1,12 +1,12 @@
 # References
 
-### [Command line interface](command-line-interface.md)
+### [Command line interface](COMMAND-LINE-INTERFACE.MD)
 
-### [Sublime shortcuts](sublime-shortcuts.md)
+### [Sublime shortcuts](SUBLIME-SHORTCUTS.MD)
 
-### [Command line interface sublime shortcuts](command-line-cheat-sheet.md)
+### [Command line interface sublime shortcuts](COMMAND-LINE-CHEAT-SHEET.MD)
 
-### [Git Reference](git.md)
+### [Git Reference](GIT.MD)
 
 
 

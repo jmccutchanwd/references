@@ -3,49 +3,29 @@ This is my repo of knowledge. A special thanks to [Steve Brownlee](https://githu
 
 ## Basic Commands
 
-### [Command line interface](REF_CLI.md)
+### [Command line interface](REF_CLI.md)                           ### [Sublime shortcuts](REF_SUBLIME_SHORCUTS.md)
 
-### [Sublime shortcuts](REF_SUBLIME_SHORCUTS.md)
+### [Command line interface sublime shortcuts](REF_CMD_LINE.md)    ### [Git Reference](REF_GIT.md)
 
-### [Command line interface sublime shortcuts](REF_CMD_LINE.md)
-
-### [Git Reference](REF_GIT.md)
-
-### [Git Intermediate](REF_GIT_ITERMEDIATE.md)
-
-### [Advanced Git](REF_ADVANCED_GIT.md)
+### [Git Intermediate](REF_GIT_ITERMEDIATE.md)                     ### [Advanced Git](REF_ADVANCED_GIT.md)
 
 ---
 
 ## JavaScript
 
-### [Planning](REF_PLANNING.md)
+### [Planning](REF_PLANNING.md)                                    ### [If / Else, Switch and For](REF_JS_IF_ELSE.md)
 
-### [If / Else, Switch and For](REF_JS_IF_ELSE.md)
+### [Primitives and Arrays](REF_PRIMITIVES_ARRAYS.md)              ### [String Manipulation](REF_STRING_MANIPULATION.md)
 
-### [Primitives and Arrays](REF_PRIMITIVES_ARRAYS.md)
+### [Array Methods](REF_ARRAY_METHODS.md)                          ### [Core Principals](REF_CORE.md)
 
-### [String Manipulation](REF_STRING_MANIPULATION.md)
+### [Event Based Programming](REF_EVENT_PROGRAMMING.md)            ### [Functions](REF_FUNCTIONS.md)
 
-### [Array Methods](REF_ARRAY_METHODS.md)
+### [First Order Functions](REF_FIRST_ORDER.md)                    ### [Modular Programming](REF_MODULAR.md)
 
-### [Core Principals](REF_CORE.md)
+### [Objects](REF_OBJECTS.md)                                      ### [SImple SPA](REF_SIMPLE_SPA.md)
 
-### [Event Based Programming](REF_EVENT_PROGRAMMING.md)
-
-### [Functions](REF_FUNCTIONS.md)
-
-### [First Order Functions](REF_FIRST_ORDER.md)
-
-### [Modular Programming](REF_MODULAR.md)
-
-### [Objects](REF_OBJECTS.md)
-
-### [SImple SPA](REF_SIMPLE_SPA.md)
-
-### [This](REF_THIS.md)
-
-### [XHR](REF_XHR.md)
+### [This](REF_THIS.md)                                            ### [XHR](REF_XHR.md)
 
 ---
 

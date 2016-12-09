@@ -2,11 +2,11 @@
 
 ### [Command line interface](REF_CLI.md)
 
-### [Sublime shortcuts](SUBLIME-SHORTCUTS.md)
+### [Sublime shortcuts](REF_SUBLIME-SHORTCUTS.md)
 
 ### [Command line interface sublime shortcuts](REF_CMD_LINE.md)
 
-### [Git Reference](GIT.md)
+### [Git Reference](REF_GIT.md)
 
 
 

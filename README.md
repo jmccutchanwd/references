@@ -27,6 +27,8 @@ This is my repo of knowledge. A special thanks to [Steve Brownlee](https://githu
 
 ### [String Manipulation](REF_STRING_MANIPULATION.md)
 
-### [Array Methods](REF_ARRAY_METHODS.js)
+### [Array Methods](REF_ARRAY_METHODS.md)
+
+### [Core Principals](REF_CORE.md)
 
 

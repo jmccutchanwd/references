@@ -1,6 +1,6 @@
 # References
 
-### [Command line interface](COMMAND-LINE-INTERFACE.md)
+### [Command line interface](REF_CMD_LINE.md)
 
 ### [Sublime shortcuts](SUBLIME-SHORTCUTS.md)
 

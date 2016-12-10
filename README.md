@@ -16,7 +16,7 @@ This is my repo of knowledge. A special thanks to [Steve Brownlee](https://githu
 ## JavaScript That Works
 Code snippets
 
-### [Remarks Convention](REF_REMARKS.md) *** [HTML Boilerplate](REF_HTML.html) ... [Style CSS](REF_STYLE.css) ... [DOM Element Finder](element-finder.js) ... [Listeners, Body and Inner HTML](REF_LISTENERS.js) ... [Working 2 JSONs](REF_TWO_JSONS.js) ... [Tree](REF_TREE.js) 
+### [Remarks Convention](REF_REMARKS.md) ... [HTML Boilerplate](REF_HTML.html) ... [Style CSS](REF_STYLE.css) ... [DOM Element Finder](element-finder.js) ... [Listeners, Body and Inner HTML](REF_LISTENERS.js) ... [Working 2 JSONs](REF_TWO_JSONS.js) ... [Tree](REF_TREE.js) 
 
 
 ---

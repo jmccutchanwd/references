@@ -3,28 +3,28 @@
 This is my attempt to standardize remarks in my JavaScript.
 
 ## Start JavaScript Doc 
-`
+
 /* ================================= */
 /* ====== By John McCutchan ======== */
 /* ================================= */
 //
-`
+
 ## Begin
-`
+
 console.log("Begin."); //**** Message
 //
-`
+
 ## Any Dev Scripts
-`
+
 /* +++++++++ DEV TOOL ++++++++++++++ */
 document.querySelector("body").addEventListener("click", function(e) {
   console.log(e);
 });
 /* +++ REMOVE BEFORE PRODUCTION ++++ */
 //
-`
+
 ## Global Variables
-`
+
 /* ================================= */
 /* ====== Global Vars ============== */
 /* ================================= */
@@ -33,9 +33,9 @@ loadInventory();
 var focusTgt = "";
 var counter = false;
 //
-`
+
 ## JSON (with Callback)
-`
+
 /* ================================= */
 /* ====== Load JSON ================ */
 /* ================================= */
@@ -52,9 +52,9 @@ function loadInventory (callback) { // Load the inventory
   inventoryLoader.send();
 } // End function
 //
-`
+
 ## Functions
-`
+
 /* ================================= */
 /* ====== Create Cards ============= */
 /* ================================= */
@@ -78,8 +78,8 @@ function populatePage () {
   activateEvents();
 } // End function
 //
-`
+
 ## End
-`
+
 // END
-`
+

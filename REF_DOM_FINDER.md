@@ -1,4 +1,4 @@
-# DOM Finder
+# DOM Selector / Finder
 
 This is the quickest way to pinpoint a DOM element from the Body.
 
